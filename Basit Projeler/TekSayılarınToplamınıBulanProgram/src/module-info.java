@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ASUS
+ *
+ */
+module TekSayılarınToplamınıBulanProgram {
+}
