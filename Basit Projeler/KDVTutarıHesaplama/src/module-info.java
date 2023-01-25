@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ASUS
- *
- */
-module KDVTutarıHesaplama {
-}
